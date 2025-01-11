@@ -1,20 +1,17 @@
-# Hey there! 👋
+### Hey there!
 
-I’m on a journey to become a skilled software engineer. Passionate about building innovative solutions and creating seamless user experiences!
+##### I'm on a journey to become a skilled Software Engineer. Passionate about building innovative solutions and creating seamless user experiences.
+#### GitHub Stats and Top Languages
+-------
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malindifrank&show_icons=true&hide_title=true&hide_border=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindifrank&layout=compact&hide_title=true&hide_border=true)
 
-# GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malindifrank&show_icons=true&hide_title=true&hide_border=true&count_private=true)
-
-# Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindifrank&layout=compact&hide_title=true&hide_border=true)
-
-# Let's Connect
-
+#### Let's Connect
+-------
 📫 If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me:
   - I'm currently busy with this 👉 [Pedibase](https://github.com/malindifrank/pedibase_frontend),
 
-# 💻 Key Languages, Tools and Technologies
-
+#### 💻 Key Languages, Tools and Technologies
+-------
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -31,7 +28,4 @@ I’m on a journey to become a skilled software engineer. Passionate about build
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-6DB33F?style=flat-square&logo=github-actions&logoColor=white)
-
-
-
 
