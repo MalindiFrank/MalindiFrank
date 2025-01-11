@@ -8,7 +8,7 @@
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MalindiFrank&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-#### ✍️ Random Dev Quote
+#### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?quote=There%20are%20only%20two%20kinds%20of%20programming%20languages:%20the%20ones%20people%20complain%20about%20and%20the%20ones%20nobody%20uses.&author=Bjarne%20Stroustrup&type=horizontal&theme=radical)
 
 #### 💻 Tech Stack:
