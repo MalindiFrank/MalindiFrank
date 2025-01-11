@@ -1,12 +1,8 @@
-### Hey there!
-
-##### I'm on a journey to become a skilled Software Engineer. Passionate about building innovative solutions and creating seamless user experiences.
-#### GitHub Stats and Top Languages
+### Hey there, Let's Connect!
 -------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malindifrank&show_icons=true&hide_title=true&hide_border=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindifrank&layout=compact&hide_title=true&hide_border=true)
 
-#### Let's Connect
--------
+#### I'm on a journey to become a skilled Software Engineer. Passionate about building innovative solutions and creating seamless user experiences.
+
 📫 If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me:
   - I'm currently busy with this 👉 [Pedibase](https://github.com/malindifrank/pedibase_frontend),
 
