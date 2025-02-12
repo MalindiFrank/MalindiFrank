@@ -1,4 +1,4 @@
-### About Me:
+
 #### I'm on a journey to become a skilled Software Engineer. Passionate about building innovative solutions and creating seamless user experiences.
 #### If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me.
 -------
