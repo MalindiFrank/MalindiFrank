@@ -1,7 +1,20 @@
+Backend systems & Integration Focus | QA Practitioner | Exploring Blockchain
 
-#### I'm on a journey to become a skilled Software Engineer. Passionate about building innovative solutions and creating seamless user experiences.
-#### If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me.
+My main focus is designing reliable integrations between software systems, supported by strong QA automation practices. I’m also exploring blockchain technology as an emerging field for the future.
+
+Current Focus:
+- REST APIs
+- QA Automation with Selenium, Postman
+- CI/CD and backend service deployment
+
+Exploring:
+- Smart contracts with Solidity
+- Web3 and decentralized applications
+
+Buliding solid, scalable, and well tested systems that just work.
+
 -------
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MalindiFrank&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com?user=MalindiFrank&theme=transparent)
