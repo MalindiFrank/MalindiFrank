@@ -1,9 +1,7 @@
 ### Backend systems & Integration Focus | QA Practitioner | Exploring Blockchain
---------------------------------------------------  
 
-Focused on designing reliable `integrations` between software systems  
-Exploring `blockchain` technology as an emerging field for the `future`  
-Supported by strong `QA automation practices.`
+
+Focused on designing reliable `integrations` between software systems, supported by strong `QA automation practices.`. Exploring `blockchain` technology as an emerging field for the `future`  
 
 --------------------------------------------------
 #### Current Focus:
@@ -14,6 +12,7 @@ Supported by strong `QA automation practices.`
 #### Exploring:
 - `Smart contracts` with `Solidity`
 - `Web3` and `decentralized apps`
+</br>
 
 `Buliding solid, scalable, and well tested systems that just work.`
 
@@ -23,8 +22,10 @@ Supported by strong `QA automation practices.`
 ![](https://github-readme-stats.vercel.app/api?username=MalindiFrank&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com?user=MalindiFrank&theme=transparent)
 
+</br>
 
 `Favorite qoute : "Don't live the same year 75 times and call that a life"  ~ pty.z_main"`
+</br>
  
 #### `Favourite Tools`:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
