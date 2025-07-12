@@ -1,31 +1,32 @@
 ### Backend systems & Integration Focus | QA Practitioner | Exploring Blockchain
+--------------------------------------------------  
 
-My main focus is designing reliable integrations between software systems, supported by strong QA automation practices. I’m also exploring blockchain technology as an emerging field for the future.
+Focused on designing reliable `integrations` between software systems  
+Exploring `blockchain` technology as an emerging field for the `future`  
+Supported by strong `QA automation practices.`
 
-Current Focus:
-- REST APIs
-- QA Automation with Selenium, Postman
-- CI/CD and backend service deployment
+--------------------------------------------------
+#### Current Focus:
+- `REST APIs`
+- `QA Automation` with `Selenium`, `Postman`
+- `CI/CD` and backend service deployment`
 
-Exploring:
-- Smart contracts with Solidity
-- Web3 and decentralized applications
+#### Exploring:
+- `Smart contracts` with `Solidity`
+- `Web3` and `decentralized apps`
 
-Buliding solid, scalable, and well tested systems that just work.
+`Buliding solid, scalable, and well tested systems that just work.`
 
--------
+</br>
+</br>
 
-#### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MalindiFrank&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com?user=MalindiFrank&theme=transparent)
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MalindiFrank&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-#### ✍️ Favourite Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?quote=There%20are%20only%20two%20kinds%20of%20programming%20languages:%20the%20ones%20people%20complain%20about%20and%20the%20ones%20nobody%20uses.&author=Bjarne%20Stroustrup&type=vertical&theme=radical) ![](https://quotes-github-readme.vercel.app/api?quote=Talk%20is%20cheap,%20Show%20me%20the%20code.&author=Linus%20Torvalds&type=vertical&theme=radical)
-
-#### 💻 Favourite Tools:
+`Favorite qoute : "Don't live the same year 75 times and call that a life"  ~ pty.z_main"`
+ 
+#### `Favourite Tools`:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) 
