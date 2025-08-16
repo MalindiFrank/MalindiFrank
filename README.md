@@ -53,5 +53,3 @@ Focused on designing reliable `integrations` between software systems, supported
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 -------
-
-sudo efibootmgr -v | grep -i 'zorin' | awk '{print $1}' | sed 's/Boot//' | sed 's/\*//' | xargs -I{} sudo efibootmgr -o {},$(sudo efibootmgr | grep -oP 'BootOrder: \K.*' | sed 's/,{}//')
