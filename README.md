@@ -1,16 +1,16 @@
-### Backend systems & Integration Focus | QA Practitioner | Exploring Blockchain
+### Backend systems & Integration Focus | OpenAPI | Exploring Blockchain
 
 
-Focused on designing reliable `integrations` between software systems, supported by strong `QA automation practices.`. Exploring `blockchain` technology as an emerging field for the `future`  
-
+Focused on designing reliable `integrations` between software systems, supported by strong `Contract First Design practices.`. Exploring `blockchain` technology as an emerging field for the `future`
 --------------------------------------------------
 #### Current Focus:
-- `REST APIs`
-- `QA Automation` with `Selenium`, `Postman`
+- `REST APIs` Spec-first API development
+- `Meassage Queues` with `ActiveMQ`
 - `CI/CD` and backend service deployment`
+- `Service`-`Oriented` Design
 
 #### Exploring:
-- `Smart contracts` with `Solidity`
+- `AWS Cloud` currently `IAM EC2 S3`
 - `Web3` and `decentralized apps`
 </br>
 
