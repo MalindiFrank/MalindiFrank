@@ -6,7 +6,7 @@
 #### Current Focus:
 - `REST APIs` Spec-first API development
 - `Meassage Queues` with `ActiveMQ`
-- `CI/CD` and backend service deployment`
+- `CI/CD` & backend service deployment`
 - `Service`-`Oriented` Design
 
 #### Exploring:
