@@ -1,5 +1,5 @@
 ### Backend systems & Integration Focus | OpenAPI. 
-
+</br>
 Focused on designing reliable `integrations` between software systems, supported by strong `Contract First Design practices.`. Exploring `blockchain` technology as an emerging field for the `future`
 --------------------------------------------------
 #### Current Focus:
