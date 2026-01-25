@@ -11,7 +11,7 @@
 
 #### Exploring:
 - `AWS Cloud` currently `IAM EC2 S3`
-- `Web3` and `decentralized apps`
+- `Web3` & `decentralized apps`
 </br>
 
 `Buliding solid, scalable, and well tested systems that just work.`
