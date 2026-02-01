@@ -25,9 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalindiFrank&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-</br>
-
-`"Don't live the same year 75 times and call that a life"  ~ pty.z_main"`   
+</br> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </br>
