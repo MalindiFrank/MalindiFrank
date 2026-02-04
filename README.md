@@ -32,8 +32,12 @@ Focused on designing reliable `integrations` between software systems, `supporti
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </br>
  
-#### `Favourite Tools`:
+#### `Favourites`:
 
+`JAVA` `TYPESCRIPT` `PYTHON` ~ `SPRING BOOT` `SVELTE` `ANGULAR` ~ `POSTGRES` ~ `OPENAPI - SWAGGER` `REST API` `ACTIVEMQ`
+
+
+<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -42,5 +46,6 @@ Focused on designing reliable `integrations` between software systems, `supporti
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
