@@ -1,13 +1,15 @@
-### Backend systems & integration | OpenAPI | 
+### Backend Systems & Integration | End-to-End System Development | OpenAPI | 
 
+</br>
 
-#### Focused on designing reliable `integrations` between software systems, supporting end-to-end system development, by strong `Contract First Design practices.`. Exploring `blockchain` technology as an emerging field for the `future`.
+Focused on designing reliable `integrations` between software systems, `supporting end-to-end` system development, by strong `Contract First Design practices`. Exploring `blockchain` technology as an emerging field for the `future`. I've worked with full-stack applications utilising frontend frameworks `Angular` + lightwieght `Svelte` and exposure to SSR.
+
 --------------------------------------------------
 #### Current Focus:
 - `REST APIs` Spec-first API development
 - `Meassage Queues` with `ActiveMQ`
-- `CI/CD` & backend service deployment`
-- `Service`-`Oriented` Design
+- `CI/CD` & backend service deployment
+- `Service`-`Oriented` `Design` + `Docker` `Compose`
 
 #### Exploring:
 - `AWS Cloud` currently `IAM EC2 S3`
