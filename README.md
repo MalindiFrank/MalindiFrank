@@ -2,7 +2,7 @@
 
 </br>
 
-Focused on designing reliable `integrations` between software systems, `supporting end-to-end` system development, by strong `Contract First Design practices`. Exploring `blockchain` technology as an emerging field for the `future`. I've worked with full-stack applications utilising frontend frameworks `Angular` + lightwieght `Svelte` and exposure to SSR.
+Focused on designing reliable `integrations` between software systems, `supporting end-to-end` system development, by strong `Contract First Design practices`. Exploring `blockchain` technology as an emerging field for the `future`. I've worked with full-stack applications utilising frontend frameworks and exposure to SSR.
 
 --------------------------------------------------
 #### Current Focus:
